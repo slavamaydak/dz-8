@@ -1,0 +1,49 @@
+.dd {
+    background-color: blue;
+    height: 360px;
+    width: 350px;
+    border: 3px solid black;
+    border-radius: 20px;
+    padding: 25px 20px 20px 20px;
+    margin: auto;
+}
+
+.ss {
+    color: white;
+    font-family: "Poppins" ;
+    text-align: center;
+    margin: 0px;
+    padding-bottom: 35px;
+    font-size: 20px;
+}
+
+.ll {
+    color: white;
+    font-family: "Poppins" ;
+    text-align: center;
+    padding-bottom: 50px;
+    margin: 0px;
+
+}
+
+.ff {
+    color: white ;
+    text-align: center;
+    font-size: 60px;
+    font-family: "Poppins" ;
+    margin: 0px;
+    padding-bottom: 40px;
+}
+
+.aa {
+    color: white;
+    font-family: "Poppins" ;
+    text-decoration: none;
+    font-size: 25px;
+    background-color: black;
+    padding:25px 140px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 0px;
+    
+}
